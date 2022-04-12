@@ -1,0 +1,11 @@
+// Comments are ignored
+// int numbers are identified
+// floats numbers are identified
+// words are identified
+// Single char symbols are identified
+// Strings are identified;
+100; 
+1.5;
+word;
+10 + 20
+"andre"
